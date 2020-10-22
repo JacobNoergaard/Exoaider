@@ -16,7 +16,7 @@ When uploaded you will see the name of the ESP (e.g. `0877A9E350CC@Exo-Aider`) i
 
 Open `Matlab/Tests/SppBluetooth_simsig.m`
 
-**Important: Include the folders `Matlab/Tests"` and `"Matlab/cobss-matlab"` for the Matlab code to work**
+**Important: Include the folders `Matlab/Tests` and `Matlab/cobss-matlab` for the Matlab code to work**
 
 Move to the section saying `%% Read sensors, move "function" into section` around line 150. 
 Here you will see the function `SppBluetooth(exoaiderName, taskname, bufferSize)`
