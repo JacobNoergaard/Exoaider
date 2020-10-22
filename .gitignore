@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+ESP32/.vscode/
+
+ESP32/lib/cobs-c/README.rst
+
+ESP32/.pio/
+
+ESP32/.travis.yml
+
+Matlab/tmp_simSignal.bin
+
+Matlab/tmp_simSignal_1.bin
+
+Matlab/tmp_simSignal_2.bin
