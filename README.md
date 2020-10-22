@@ -3,6 +3,9 @@ Main repository for the Exoaider armband with sEMG and FSR sensors running on an
 
 # Usage
 
+Important: Remember to turn on the battery!
+
+
 ## ESP32
 
 Upload: ESP32/src/SppBluetooth.cpp
@@ -23,3 +26,4 @@ Run this section and you will be able to request data from the armband.
 By running the next section "%% Real time plotting" you will get a real-time plot of the sensor data depending on what you specify in the plot function in the bottom of the section. 
 
 Note: Depending on the bufferSize you might have to wait until the buffer is filled before the plot will show.
+Note: If error occour, try restarting the ESP32 by turning the battery on and off and running the Matlab code again.
