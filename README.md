@@ -1,18 +1,18 @@
 # Exoaider
 Main repository for the Exoaider armband with sEMG and FSR sensors running on an ESP32 feather with Bluetooth interface to Matlab
 
-# Usage
+## Usage
 
 **Important: Remember to turn on the battery!**
 
 
-## ESP32
+### ESP32
 
 Upload: `ESP32/src/SppBluetooth.cpp`
 
 When uploaded you will see the name of the ESP (e.g. `0877A9E350CC@Exo-Aider`) in the serial monitor which you will need in the Matlab code later.
 
-## Matlab
+### Matlab
 
 Open `Matlab/Tests/SppBluetooth_simsig.m`
 
