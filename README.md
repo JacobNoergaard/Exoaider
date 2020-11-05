@@ -1,6 +1,10 @@
 # Exoaider
 Main repository for the Exoaider armband with sEMG and FSR sensors running on an ESP32 feather with Bluetooth interface to Matlab
 
+## Armband
+
+## Hardware
+
 ## Usage
 
 **Important: Remember to turn on the battery!**
