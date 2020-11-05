@@ -1,4 +1,7 @@
 ### Wiki page
-- [ ] Add armband description
-- [ ] Add hardware description
-- [ ] Add software description description
+- [ ] Greate wiki page with basic description
+- [ ] Add description of: 
+  - [ ] usage
+  - [ ] armband
+  - [ ] hardware
+  - [ ] software
