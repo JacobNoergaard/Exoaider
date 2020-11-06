@@ -1,5 +1,5 @@
 ### Wiki page
-- [x] Greate wiki page with basic description
+- [ ] Greate wiki page with basic description
 - [ ] Add description of: 
   - [ ] usage
   - [ ] armband
